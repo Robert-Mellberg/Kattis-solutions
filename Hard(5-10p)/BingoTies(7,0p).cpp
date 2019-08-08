@@ -14,6 +14,7 @@
 #include <bitset>
 using namespace std;
 
+//https://open.kattis.com/problems/bingoties
 
 //The solution is to compare every bingo card with every other bingo card.
 //Then check every row in the first bingo card with every row in the second card.
