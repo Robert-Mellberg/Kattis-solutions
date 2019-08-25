@@ -3,7 +3,7 @@ import java.lang.Math;
 
 //https://open.kattis.com/problems/a1paper
 
-public class statue
+public class Paper
 {
   static int[] antalPapper;
   static final double multiplier = Math.sqrt(0.5);
