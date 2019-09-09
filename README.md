@@ -8,7 +8,10 @@ If you have any questions about any of the solutions, email me at robmel@kth.se
 
 ## Stats
 **Rank:** 329
+
 **Score:** 683.2
+
 **Solved problems:** 248
+
 **Languages:** C++(cpp) and Java
 
