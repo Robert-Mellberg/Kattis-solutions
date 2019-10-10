@@ -13,5 +13,5 @@ If you have any questions about any of the solutions, email me at robmel@kth.se
 
 **Solved problems:** 248
 
-**Languages:** C++(cpp) and Java
+**Languages:** C++(cpp), Java and Python
 
